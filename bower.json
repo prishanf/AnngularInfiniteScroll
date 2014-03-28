@@ -1,0 +1,9 @@
+{
+  "name": "angularinfinitescroll",
+  "private": true,
+  "dependencies": {
+    "jquery": "~1.11.0",
+    "angular": "~1.2.15"
+  },
+  "devDependencies": {}
+}
